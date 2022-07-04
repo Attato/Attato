@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ffffff&lines=hi,+I'm+a+frontend+developer)](https://github.com/Attato?tab=repositories)
 
-### Languages and Tools
+### Languages and Tools:
 
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/186/186320.png" height="30" width="30" >
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/186/186319.png" height="30" width="30" >
