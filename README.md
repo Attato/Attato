@@ -12,5 +12,5 @@
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="30" width="30" >
 <img align="left" src="https://cdn-icons.flaticon.com/png/512/520/premium/520890.png?token=exp=1656936360~hmac=db23b931e44de17f6de352c77946ea27" height="30" width="30" >
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="30" width="30" >
-<img align="left" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/framer-512.png" height="30" width="30" >
+<img align="left" src="https://destatic.blob.core.windows.net/images/framer-logo.png" height="30" width="30" >
 <img align="left" src="https://juristr.com/assets/images/categories/next.svg" height="30" width="30" >
