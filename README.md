@@ -10,7 +10,7 @@
 <img align="left" title="javascript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30" width="30" >
 <img align="left" title="typescript" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="30" width="30" >
 <img align="left" title="node js" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="30" width="30" >
-<img align="left" title="react" src="https://cdn-icons.flaticon.com/png/512/520/premium/520890.png?token=exp=1657732810~hmac=52972eee6a47c00d6888defb9d8f04e7" 
+<img align="left" title="react" src="https://cdn-icons-png.flaticon.com/512/520/520890.png"
 height="30" width="30" >
 <img align="left" title="figma" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="30" width="30" >
 <img align="left" title="framer motion" src="https://destatic.blob.core.windows.net/images/framer-logo.png" height="30" width="30" >
