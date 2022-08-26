@@ -19,4 +19,4 @@ height="30" width="30" >
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&border_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&border_color=0d1117)](https://github.com/Attato?tab=repositories)
