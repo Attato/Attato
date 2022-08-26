@@ -15,3 +15,8 @@ height="30" width="30" >
 <img align="left" title="figma" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="30" width="30" >
 <img align="left" title="framer motion" src="https://destatic.blob.core.windows.net/images/framer-logo.png" height="30" width="30" >
 <img align="left" title="next js" src="https://juristr.com/assets/images/categories/next.svg" height="30" width="30" >
+<br/>
+<br/>
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=attato&show_icons=true&locale=en&layout=compact" alt="attato" /></p>
