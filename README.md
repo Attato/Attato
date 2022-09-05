@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://avatars.githubusercontent.com/u/77270450?s=400&u=d328584c2ea1ca162f6c28fa1d554e07be4683ce&v=4" width="150"/>
+     <a href="https://github.com/Attato?tab=repositories"><img src="https://avatars.githubusercontent.com/u/77270450?s=400&u=d328584c2ea1ca162f6c28fa1d554e07be4683ce&v=4" width="150"/></a>
 </div>
 
 <br/>
@@ -16,5 +16,5 @@
 <hr/>
 
 <div align="center">
-   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Attato&show_icons=true&locale=en&layout=compact&theme=github_dark&border_color=0d1117" alt="attato" /></p>
+   <a href="https://github.com/Attato?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Attato&show_icons=true&locale=en&layout=compact&theme=github_dark&border_color=0d1117" alt="attato" /></a>
 </div>
