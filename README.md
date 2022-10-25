@@ -16,5 +16,5 @@
 <hr/>
 
 <div align="center">
-   <a href="https://github.com/Attato?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Attato&show_icons=true&locale=en&layout=compact&theme=github_dark&border_color=0d1117" alt="attato" /></a>
+   <a href="https://github.com/Attato?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=attato&show_icons=true&locale=en&layout=compact&theme=github_dark&border_color=0d1117" alt="attato" /></a>
 </div>
