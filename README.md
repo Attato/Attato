@@ -2,15 +2,14 @@
 
 ###
 
-<p align="left">Меня зовут Денис и я Frontend разработчик из г. Санкт-Петербурга</p>
+<p align="left">Меня зовут Денис и я Frontend разработчик из г. Санкт-Петербурга.</p>
 
-###
-
-<h2 align="left">📌 Избранные проекты</h2>
-
-###
-
-[Ссылка на мой основной Pet-проект](https://mygame-web.vercel.app/game/talent-tree)
+<h2 align="left">📫 Связаться со мной</h2>
+<div align="left">
+  <a href="https://t.me/d3n15d" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
 ###
 
